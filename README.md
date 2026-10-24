@@ -29,14 +29,6 @@ app/src/main/java/br/unisanta/myapplication/
 └── view/MainActivity.kt   # Gerencia a tela principal e as ações do usuário
 ```
 
-## Capturas de tela
-
-![Tela inicial do aplicativo](docs/prints/tela-inicial.png)
-
-![Listagem no Logcat](docs/prints/logcat.png)
-
----
-
 # Parte A — Implementações práticas
 
 ## A1. Limpeza dos campos depois do cadastro
@@ -55,7 +47,7 @@ private fun limparCampos() {
 }
 ```
 
-![Implementação A1](docs/prints/a1.png)
+![I](docs/prints/a1.png)
 
 ## A2. Verificação do preço informado
 
